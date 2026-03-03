@@ -4,4 +4,4 @@ plugins {
 }
 
 rootProject.name = "CourseCorrect"
-include("app")
+include("backend")
